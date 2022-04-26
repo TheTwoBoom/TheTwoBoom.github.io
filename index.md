@@ -1,6 +1,6 @@
 ## Welcome to TwoB00m Website!
 
-I´m a Python Developer and maybe a Creeper too. Minecraft + Creeper + Python = TheTwoB00m!
+I'm a Python Developer and maybe a Creeper too. Minecraft + Creeper + Python = TheTwoB00m!
 
 ### Markdown
 
